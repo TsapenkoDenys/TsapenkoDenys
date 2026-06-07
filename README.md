@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=180&section=header&text=Denys%20Tsapenko&fontSize=48&fontColor=f0f6fc&fontAlignY=60&desc=C%2B%2B%20%26%20C%23%20Developer&descSize=16&descAlignY=78&descColor=8b949e" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Developer;Systems+%26+Desktop+Programming;.NET+%7C+WPF+%7C+C%2B%2B+%7C+C%23" alt="Typing"/>
 
 <br/>
@@ -40,9 +38,6 @@ Focused on systems programming and desktop development
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=BobrickCS22&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobrickCS22&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e"/>
 
 </div>
 
