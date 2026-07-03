@@ -15,7 +15,6 @@
 <br/>
 
 ```
-Currently studying at IT STEP Academy · Ukraine
 Focused on systems programming and desktop development
 ```
 
