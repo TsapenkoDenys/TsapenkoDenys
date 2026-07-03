@@ -15,8 +15,8 @@
 <br/>
 
 ```
-Focused on C++ software engineering, systems programming, desktop application development,
-software architectureф and performance optimization.
+Focused on C++/C# software engineering, systems programming, desktop application development,
+software architecture and performance optimization.
 
 ```
 
