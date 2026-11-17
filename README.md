@@ -80,17 +80,6 @@ Building efficient, reliable, and maintainable software.
 </tr>
 </table>
 
----
-
-## Language Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobrickCS22&layout=donut&langs_count=6&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages by Repository"/>
-
-</div>
-
----
 
 ## GitHub Statistics
 
