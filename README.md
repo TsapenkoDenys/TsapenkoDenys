@@ -85,7 +85,6 @@ Building efficient, reliable, and maintainable software.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=BobrickCS22&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub Stats"/>
 
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=TsapenkoDenys&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak"/>
 
